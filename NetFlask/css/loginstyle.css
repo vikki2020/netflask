@@ -1,0 +1,23 @@
+﻿.login_btn {
+    width: 70%;
+    background-color: #dc1a28;
+    color: #dfb636;
+    font-size: larger;
+    font-weight: bolder;
+    margin: 1em;
+}
+
+.login-title {
+    color: #dfb636; 
+    font-weight: bolder;
+}
+
+.input-group
+{
+    display:block;
+    margin:1em;
+}
+
+.form-control {
+    margin: 1em;
+}
